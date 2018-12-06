@@ -219,6 +219,16 @@ body {
     cursor: pointer;
     background: #4aaaa5;
     border: 0 none;
+  } 
+
+  .links {
+    font-size: 16px;
+    text-align: center;
+    bottom: 20px;
+    position: relative;
+    color: white;
+    padding-left: 20px;
+    text-decoration: none;
   }
 
   @media screen and (max-width:980px) {
@@ -248,6 +258,7 @@ body {
       }
 
   }
+
 
   @media screen and (max-width:640px) {
     #main-container {
