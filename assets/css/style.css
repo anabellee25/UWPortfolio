@@ -268,8 +268,8 @@ body {
 
   @media screen and (max-width:640px) {
     #main-container {
-        width:auto;
-        margin-right: 20px;
+        width:100%;
+        margin: auto;
         min-height: calc(100vh - 70px);
 
         }
@@ -291,3 +291,5 @@ body {
     
             }
   }
+  
+
