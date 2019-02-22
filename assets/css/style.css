@@ -179,6 +179,10 @@ body {
     border-bottom: 0;
   }
   
+  #tradesies {
+    width: 274px !important;
+    height: 225px !important;
+  }
   .auth-image {
     float: left;
     width: 200px;
